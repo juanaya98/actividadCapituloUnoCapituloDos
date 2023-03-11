@@ -198,3 +198,28 @@ un correo electrónico quien nos da el soporte el e-mail hosting, por lo tanto
 los servicios son los que le dan dirección a los mensajes o solicitudes que 
 realicemos para trasladarlos a través de la red.
 
+2.Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+
+RED: La red es un conjunto de equipos que están conectados por medios de cables, señales o cualquier otro método
+de transporte de datos que comparten información.
+LAN: La red LAN es una red que conecta uno o más ordenadores dentro de un ámbito pequeño y limitado. Se puede encontrar
+a través de cable Ethernet, lo que significa que todos los dispositivos se interconectan mediante un router.
+WAN: se denomina red WAN  a las conexiones informáticas de mayor envergadura, aquellas de mayor velocidad que cubren una
+extensa porción geográfica del planeta.
+INTERNETWORK: es una colección de redes individuales, conectadas  por dispositivos intermediarios, algunas de las redes
+interconectadas pertenecen a organizaciones públicas y privadas, la internetwork más conocida y utilizada y a la que
+acceden los personas en general es el internet.
+INTERNET:  es una red de redes porque no sólo interconecta computadoras sino que interconecta redes computadoras entre sí
+para el intercambio de la información ya que como lo dice la lectura los seres humanos necesitamos de una manera u otra
+comunicarnos ya sea enviando correos electrónicos, por medio de los celulares, estar actualizados en noticias, son unas
+de las muchas razones que se hace indispensable el internet.
+
+3.¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+La diferencia entre internetwork e internet es que internetwork es una red específica mientras que internet  es una malla
+global de redes, un conjunto con interwork son los encargados de originar la red de  internet.
+Por ejemplo, si una empresa  tiene una red que une diferentes equipos entonces esto es un interwork y la unión de estos 
+equipos con otras empresas es una red más global que se da gracias al internet. Por tanto la diferencia es el tamaño de
+la red y los agentes que los unen.
+
+
