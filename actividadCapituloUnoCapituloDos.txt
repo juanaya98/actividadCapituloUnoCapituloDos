@@ -259,3 +259,35 @@ entre ellos mediante el intercambio de información entre las dos partes.
 transmiten datos a través de una red este se le transforman los datos o la
 información para que pueda viajar a través de la red
 
+8.Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+
+Modelo de protocolo: Se refiere a una colección específica de protocolos que se utilizan para implementar una solución de red 
+específica. El modelo de protocolo se centra en los detalles específicos de los protocolos utilizados en una red en particular.
+Por ejemplo, el modelo de protocolo de Internet (IP) describe el conjunto de protocolos utilizados para implementar la 
+conectividad de Internet, como el protocolo IP, TCP y UDP.
+Modelo de referencia: Se refiere a una estructura general que describe cómo se deben organizar las capas de protocolos en una red.
+El modelo de referencia es una guía para diseñar sistemas de comunicación de red. El modelo de referencia más conocido es el 
+modelo OSI (Open Systems Interconnection) y el modelo TCP/IP. Estos modelos describen cómo se organizan las capas de protocolos
+en una red, cómo las capas interactúan entre sí y cómo los datos se transmiten a través de la red.
+Así, la diferencia principal entre los modelos de protocolo y modelos de referencia es que los modelos de protocolo describen un
+conjunto específico de protocolos utilizados en una red determinada, mientras que los modelos de referencia son estructuras 
+generales que describen cómo se deben organizar las capas de protocolos en una red. Los modelos de referencia proporcionan un 
+marco general para la construcción de una red, mientras que los modelos de protocolo se centran en los detalles específicos de 
+los protocolos utilizados en una red en particular.
+
+9.Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+-El modelo TCP/IP implementa protocolos de TCP/IP, que se crean entre computadores por ejemplo, que permiten la trasmisión 
+de datos entre ellas, a través de la red que en este caso sería el internet.
+-En la primera capa de la aplicación es en donde se crean los datos que vamos a enviar, en la capa de transporte es donde
+se van a convertir los datos para que puedan viajar a través de un canal de la red, en la capa de internet es en donde se
+da acceso a la red para que estos datos sean enviados por la internetwork, luego viajan y pasan a la nueva red donde se 
+les da acceso y hará este mismo proceso en sentido contrario para que llegue a su destino.
+-La capa física es básicamente los medios electrónicos por los cuales vamos a crear una conexión para la transmisión de
+datos a través de una red, enlace de datos son los métodos para el intercambio de datos a través de un computador en este caso,
+la capa de red es la que nos da la conexión y de dónde y hacia dónde van los datos, la capa de transporte es la encargada de transferir
+datos a los dispositivos, la capa de sesión determina el intercambio de datos en una cuenta dada en este caso la que recibe los 
+datos, la capa de presentación muestra los datos de una forma amigable para el usuario o cliente final, y finalmente la aplicación 
+proporciona los medios por ejemplo una pantalla en la cual se muestran los datos finales que son enviados de origen a destinatario
+
+
