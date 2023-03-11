@@ -92,6 +92,34 @@ y contenidos con muchas características.
 
 7.	Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
 
+Las arquitecturas de red son el conjunto de principios, protocolos y tecnologías utilizadas para diseñar y construir redes de 
+computadoras. Las características clave de las arquitecturas de red incluyen la tolerancia a fallos, la escalabilidad, la 
+calidad del servicio y la seguridad. A continuación, se describen cada una de estas características junto con algunos ejemplos
+de arquitecturas de red que las implementan:
+
+Tolerancia a fallos: Esta característica se refiere a la capacidad de la red para mantener su funcionamiento incluso cuando algunos
+de sus componentes fallan. Esto se logra mediante la redundancia de los elementos críticos de la red, de manera que si uno de ellos
+falla, otros puedan tomar su lugar sin interrupciones en el servicio. Ejemplos de arquitecturas de red tolerantes a fallos son:
+Redes de área local (LAN), Redes de área amplia (WAN) 
+
+Escalabilidad: Esta característica se refiere a la capacidad de la red para manejar un mayor número de dispositivos y usuarios sin
+degradar el rendimiento. Ejemplos de arquitecturas de red escalables son:
+Redes definidas por software (SDN), Redes de multiprotocolo de conmutación de etiquetas (MPLS)
+
+Calidad del servicio: Esta característica se refiere a la capacidad de la red para garantizar un determinado nivel de rendimiento
+para los diferentes tipos de tráfico, como voz, vídeo y datos. Ejemplos de arquitecturas de red con calidad de servicio incluyen:
+Redes de servicios diferenciados (DiffServ), Redes de voz sobre IP (VoIP)
+
+Seguridad: se refiere a la capacidad de proteger los datos, los sistemas y los usuarios de accesos no autorizados, ataques y otros
+riesgos de segurida algunos ejemplos de arquitecturas de red que implementan estas características son:
+De autenticación
+Redes de área local (LAN)
+Redes privadas virtuales (VPN) 
+Redes de área local (LAN) 
+De encriptación
+Redes privadas virtuales (VPN) 
+
+
 8.	Investigar qué son las redes orientadas y no orientadas a la conexión.
 
 Las redes pueden clasificarse en dos tipos: redes orientadas a la conexión y redes no orientadas a la conexión.
