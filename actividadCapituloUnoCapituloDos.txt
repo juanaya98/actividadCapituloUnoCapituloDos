@@ -222,4 +222,24 @@ Por ejemplo, si una empresa  tiene una red que une diferentes equipos entonces e
 equipos con otras empresas es una red más global que se da gracias al internet. Por tanto la diferencia es el tamaño de
 la red y los agentes que los unen.
 
+4.Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+Tarjeta de interfaz de red (NIC): Es un dispositivo hardware que se utiliza para conectar una computadora u otro dispositivo
+a una red. La NIC se inserta en la ranura de expansión de la placa base de la computadora y se encarga de proporcionar una 
+interfaz de red al dispositivo.
+Puerto físico: Es el lugar físico donde se conecta un cable de red a un dispositivo, como un switch, un enrutador o una 
+computadora. Los puertos físicos están en la parte trasera o lateral de los dispositivos y son el punto de entrada y salida
+de los datos en la red.
+Interfaz de red: Es el software o el controlador que permite que un dispositivo se comunique con la red a través de su NIC.
+La interfaz de red se encarga de traducir los datos que se envían y reciben desde el dispositivo en un formato que la red
+pueda entender y viceversa.
+En resumen, la NIC es el dispositivo hardware que proporciona una interfaz de red al dispositivo, el puerto físico es el punto
+de entrada y salida de datos en la red, y la interfaz de red es el software que permite que el dispositivo se comunique con la
+red a través de su NIC.
+
+5.¿Por qué se dice que un protocolo es independiente de la tecnología? 
+
+Se dice que un protocolo es independiente de la tecnología porque muchos de los tipos de dispositivos pueden comunicarse con 
+los mismos conjuntos de protocolos y esto se debe a que los protocolos especifican la funcionalidad en la red y es la tecnología
+quien tiene que adaptarse a los estándares o protocolos.
 
