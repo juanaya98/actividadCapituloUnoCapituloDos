@@ -243,3 +243,19 @@ Se dice que un protocolo es independiente de la tecnología porque muchos de los
 los mismos conjuntos de protocolos y esto se debe a que los protocolos especifican la funcionalidad en la red y es la tecnología
 quien tiene que adaptarse a los estándares o protocolos.
 
+6.Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+
+Una unidad de datos de protocolo (PDU) es un término de interconexión de sistema abierto (OSI), Cada capa en el modelo usa la PDU
+para comunicarse  e intercambiar información, que solo puede leer la capa de igual en el dispositivo receptor y luego se entrega
+a la siguiente capa superior después de la extracción. Una unidad de datos de protocolo es información entregada como una unidad
+entre entidades pares de redes que contienen información de control, información de dirección o datos. 
+
+7.Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+
+- La función de protocolos en las comunicaciones de redes es la interacción
+entre dos partes sin importar la marca o el fabricante puedan interactuar 
+entre ellos mediante el intercambio de información entre las dos partes.
+- El proceso de encapsulación de datos es básicamente cuando se 
+transmiten datos a través de una red este se le transforman los datos o la
+información para que pueda viajar a través de la red
+
