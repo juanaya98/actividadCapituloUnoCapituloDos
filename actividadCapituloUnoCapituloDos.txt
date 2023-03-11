@@ -74,9 +74,31 @@ convertidos a bits antes de ser enviados a su destino.
 Dispositivos: son aquellos que se utilizan para efectuar la comunicación entre los elementos .
 
 6.	Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+
 7.	Describir las características de las arquitecturas de red: tolerante a fallas, escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos ejemplos. 
+
 8.	Investigar qué son las redes orientadas y no orientadas a la conexión.
+
 9.	Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+
+La calidad del servicio (QoS) se refiere a la capacidad de una red para proporcionar una entrega de datos confiable y consistente, con un rendimiento 
+predecible y satisfactorio, para satisfacer los requisitos de las aplicaciones que utilizan la red. La QoS es importante para garantizar que las 
+aplicaciones críticas, como la voz y el video, se entreguen sin interrupciones y en tiempo real, y para garantizar una experiencia de usuario satisfactoria.
+Para mantener una buena calidad de servicio para las aplicaciones que lo requieren, se necesitan varios elementos, entre ellos:
+
+Ancho de banda adecuado: Es necesario contar con suficiente ancho de banda en la red para satisfacer las necesidades de las aplicaciones que requieren QoS.
+Control de congestión: La congestión de la red puede provocar una degradación de la QoS, por lo que se deben implementar medidas para controlar la 
+congestión, como la gestión de colas y la limitación de la tasa de transmisión.
+
+Priorización de tráfico: Es necesario clasificar y priorizar el tráfico de la red para que las aplicaciones críticas puedan tener acceso preferencial 
+al ancho de banda y se les garantice una entrega de datos sin interrupciones.
+
+Políticas de gestión de tráfico: Es importante establecer políticas claras de gestión de tráfico para evitar que las aplicaciones no críticas ocupen todo 
+el ancho de banda disponible y afecten negativamente a las aplicaciones críticas.
+
+Monitoreo y control: Es importante monitorear la red y realizar ajustes según sea necesario para garantizar una QoS adecuada. Esto puede incluir la 
+implementación de medidas de control de tráfico y la actualización de políticas de gestión de tráfico en función de las necesidades de las aplicaciones.
+
 10.	¿Por qué importa la calidad del servicio en una red de datos? 
 
 
