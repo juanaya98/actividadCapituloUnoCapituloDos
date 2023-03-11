@@ -101,4 +101,24 @@ implementación de medidas de control de tráfico y la actualización de políti
 
 10.	¿Por qué importa la calidad del servicio en una red de datos? 
 
+La calidad del servicio (QoS) es importante en una red de datos por varias razones:
+
+Experiencia del usuario: La QoS afecta directamente la experiencia del usuario al utilizar aplicaciones y servicios en la red. Si la QoS es deficiente,
+los usuarios pueden experimentar interrupciones en la entrega de datos, latencia o pérdida de paquetes, lo que puede afectar la productividad y la 
+satisfacción del usuario.
+
+Aplicaciones críticas: Las aplicaciones críticas, como la voz y el video, requieren una QoS adecuada para su funcionamiento óptimo. Si la QoS no es 
+suficiente, la calidad del audio y el video puede ser mala, lo que puede dificultar la comunicación y la colaboración.
+
+Uso eficiente del ancho de banda: Una QoS adecuada permite un uso más eficiente del ancho de banda disponible, ya que permite la priorización del 
+tráfico y la gestión de la congestión de la red. Esto puede mejorar el rendimiento general de la red y garantizar una entrega de datos más eficiente.
+
+Seguridad de la red: La QoS también puede mejorar la seguridad de la red, ya que permite la implementación de políticas de gestión de tráfico y la 
+limitación del ancho de banda disponible para ciertos tipos de tráfico. Esto puede ayudar a prevenir ataques de denegación de servicio (DoS) y 
+garantizar que los recursos de red estén disponibles para aplicaciones críticas.
+
+En resumen, la QoS es esencial para garantizar una experiencia de usuario satisfactoria, el funcionamiento adecuado de aplicaciones críticas, el uso 
+eficiente del ancho de banda y la seguridad de la red. Por lo tanto, es importante implementar medidas de QoS en las redes de datos para garantizar
+su rendimiento y disponibilidad óptimos.
+
 
