@@ -177,4 +177,24 @@ En resumen, la QoS es esencial para garantizar una experiencia de usuario satisf
 eficiente del ancho de banda y la seguridad de la red. Por lo tanto, es importante implementar medidas de QoS en las redes de datos para garantizar
 su rendimiento y disponibilidad óptimos.
 
+Preguntas de lectura: Capítulo 2
+
+1.Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+- Los Dispositivos y los medios debemos describirlos al mismo tiempo ya 
+que como bien en la guía dice que son los elementos físicos o hardware,
+que podemos ver e interactuar con ellos como por ejemplo como 
+dispositivos ya sea nuestro computador portátil, un servidor, un router, 
+para los medios que son el medio por el cual viaja el mensaje desde el 
+origen hasta el destino, tenemos por ejemplo las líneas del cableado que 
+nos provee internet, ya sean cable coaxial, fibra óptica y la atmósfera por 
+Por lo tanto es un componente visible de la plataforma de la red.
+
+- Los servicios son los programas de comunicación que en este caso serían
+los que no podemos ver ya que es software que están instalados en los 
+diferentes equipos que los utilizan, los servicios para tenerlo de entrada 
+más claros sería con un ejemplo el servicio de web hosting que nos dan 
+respuestas solicitudes que realicemos desde el cliente o cuando enviamos 
+un correo electrónico quien nos da el soporte el e-mail hosting, por lo tanto 
+los servicios son los que le dan dirección a los mensajes o solicitudes que 
+realicemos para trasladarlos a través de la red.
 
